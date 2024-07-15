@@ -2,9 +2,9 @@ Steps to Create React Native Application:
 
 Step 1: Create a react native application by using this command
 
-npx create-expo-app StopwatchApp S
+npx create-expo-app StopwatchApp 
 
-tep 2: After creating your project folder, i.e. StopwatchApp, use the following command to navigate to it:
+Step 2: After creating your project folder, i.e. StopwatchApp, use the following command to navigate to it:
 
 cd StopwatchApp
 
